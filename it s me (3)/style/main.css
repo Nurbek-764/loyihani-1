@@ -1,0 +1,30 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    background-repeat: no-repeat;
+    background-image:
+        url(/img/600LT-Tile-1200x1200_crop-4x3.jfif);
+    background-repeat: no-repeat;
+    opacity: 90%
+}
+
+.dady-li {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.nike {
+    color: red;
+}
+
+.OP:hover {
+    transition: all 50ms;
+    color: gold;
+}
+
+.image {
+    text-align: center;
+    margin: 50px;
+    color: red;
+}
